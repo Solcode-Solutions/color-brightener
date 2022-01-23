@@ -1,0 +1,25 @@
+{
+  "name": "@solcode/color-brightener",
+  "version": "1.0.0",
+  "description": "NPM package that allows users to brighten or shadow inputed color.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solcode-Solutions/color-brightener.git"
+  },
+  "keywords": [
+    "color",
+    "color-tool",
+    "shadows",
+    "brightness"
+  ],
+  "author": "Matthew Husak | Solcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solcode-Solutions/color-brightener/issues"
+  },
+  "homepage": "https://github.com/Solcode-Solutions/color-brightener#readme"
+}
